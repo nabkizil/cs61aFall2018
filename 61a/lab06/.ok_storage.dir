@@ -1,0 +1,3 @@
+'Player.__init__-correct', (0, 70)
+'Player.play-correct', (512, 70)
+'Player.draw-correct', (1024, 70)

@@ -1,0 +1,4 @@
+'store_digits-correct', (0, 70)
+'cumulative_sum-correct', (512, 70)
+'link_to_list-correct', (1024, 70)
+'in_order_traversal-correct', (1536, 70)
